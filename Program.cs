@@ -10,9 +10,9 @@ namespace osipovgit
     {
         static void Main(string[] args)
         {
-            int x = 64;
-            int y = 8;
-            Console.WriteLine($"Вывод: {x/y}");
+            int a = 64;
+            int b = 8;
+            Console.WriteLine($"Вывод: {a/b}");
         }
     }
 }
